@@ -1,0 +1,29 @@
+@media (min-width:768px){
+       #bk2{
+            padding-top: 6rem;
+            padding-bottom: 4rem;
+            padding-left: 4rem;
+            padding-right: 4rem;
+       }
+}
+@media (min-width:576px){
+    #bk2{
+         padding-top: 4rem;
+         padding-bottom: 3rem;
+         padding-left: 3rem;
+         padding-right: 3rem;
+    }
+}
+@media (max-width:576px){
+    #bk2{
+        padding-top: 2.5rem;
+        padding-bottom: 1.5rem;
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+   }
+}
+#bk3{
+    
+    margin-top:120px;
+    padding-bottom: 80px;
+}

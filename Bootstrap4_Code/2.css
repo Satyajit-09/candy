@@ -1,0 +1,68 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1508614999368-9260051292e5?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGNvbG9yJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D);
+    
+}
+.login_block{
+       width:800px;
+       height:500px;
+       background-color: aquamarine;
+       border-radius: 10px;
+       margin-left: 18%;
+       margin-top:10%;
+       
+}
+img{
+      width: 200px;
+      height: 200px;
+      margin-top: 150px;
+      margin-left: 50px;
+      border-radius: 40%;
+}
+.emoji{
+    box-sizing: border-box;
+   
+     width: 400px;
+     height: 500px;
+     float:left;
+   
+
+}
+.login{
+    float:right;
+    width: 400px;
+    height: 500px;
+}
+h1{
+    text-align: center; 
+    margin-top: 100px;
+    font-weight: 700;
+    font-family: cursive;
+    color:cornflowerblue;
+}
+input{
+     border-color: white;
+     background-color: silver;
+     font-family: sans-serif;
+     height: 27px;
+     border-radius: 30%;
+     margin-left: 90px;
+}  
+div.password{
+    margin-top: 10px;
+}  
+input:focus{
+      outline: none;
+}  
+button{
+    margin-left:90px ;
+    background-color: green;
+    height: 27px;
+    width: 169px;
+    border-radius: 30%;
+    color:white;
+    font-size: 15px;
+}  
+.submit{
+    margin-top:20px;
+}
+

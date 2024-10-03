@@ -1,0 +1,52 @@
+body{
+    background-color: pink;
+    font-family: "nunito";
+}
+#main{
+    font-size: 1.5rem;
+    font-weight: 200;
+}   
+.navbar-brand{
+      color: red;
+      font-size: 1.5rem;
+    font-weight: 200;
+}
+.navbar-brand:hover{
+    color:red;
+}   
+.nav-links{
+    color: white;
+}
+.nav-link:hover{
+    color: red;
+} 
+#firstbk h1{
+    color:white;
+    font-size: 4rem;
+    font-weight: 200;
+}
+#sctwo{
+    margin-top: 6rem;
+}
+#pb2{
+    color:palevioletred;
+}
+h2{
+    font-size: 2.5rem;
+    font-weight: 200;
+}
+@media (max-width:1200px){
+    h2{
+        font-size: 2rem;
+    
+    }
+}
+.navbar.scrolled {
+    background: blue;
+    transition: background 500ms;
+}
+@media (max-width:1250px){
+    #firstbk h1{
+          font-size: 3rem;
+    }  
+}
